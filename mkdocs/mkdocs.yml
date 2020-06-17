@@ -1,6 +1,6 @@
 site_name: Test-Doku
 dev_addr: "0.0.0.0:8080"
-site_author: "Ihr Name"
+site_author: "HaRo222"
 
 markdown_extensions:
     - attr_list
