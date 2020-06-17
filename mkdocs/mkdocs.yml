@@ -1,4 +1,4 @@
-site_name: Test-Doku
+site_name: mkdocs Test-Page
 dev_addr: "0.0.0.0:8080"
 site_author: "HaRo222"
 
