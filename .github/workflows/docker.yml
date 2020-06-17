@@ -15,6 +15,6 @@ jobs:
           path: .
           username: HaRo222
           password: ${{ secrets.GITHUB_TOKEN }}
-          repository: HaRo222/demo-docs/mkdocs
+          repository: haro222/demo-docs/mkdocs
           registry: docker.pkg.github.com
           tags: latest
